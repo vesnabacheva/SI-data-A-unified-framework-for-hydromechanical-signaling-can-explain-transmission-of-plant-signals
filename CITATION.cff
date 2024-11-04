@@ -1,0 +1,56 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Bacheva"
+    given-names: "Vesna"
+    affiliation: "Cornell University"
+    orcid: "https://orcid.org/0000-0003-3908-4128" 
+  - family-names: "Rockwell"
+    given-names: "Fulton E."
+    affiliation: "Harvard University"
+  - family-names: "Salmon"
+    given-names: "Jean-Baptiste"
+    affiliation: "CNRS, Syensqo, LOF"
+  - family-names: "Woodson"
+    given-names: "Jesse"
+    affiliation: "University of Arizona"
+  - family-names: "Frank"
+    given-names: "Margaret"
+    affiliation: "Cornell University"
+  - family-names: "Stroock"
+    given-names: "Abraham D."
+    affiliation: "Cornell University"
+title: "A unified framework for hydromechanical signaling: Do plant signals go with the flow?"
+version: "v1.0.0"
+date-released: 2024-11-04
+repository-code: "https://github.com/vesnabacheva/SI-data-A-unified-framework-for-hydromechanical-signaling-Do-plant-signals-go-with-the-flow-"
+keywords:
+  - hydromechanical signaling
+  - plant biology
+  - fluid dynamics
+contact:
+  - email: "vesna.bacheva@cornell.edu"
+  - email: "abe.stroock@cornell.edu"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bacheva"
+      given-names: "Vesna"
+      affiliation: "Cornell University"
+    - family-names: "Rockwell"
+      given-names: "Fulton E."
+      affiliation: "Harvard University"
+    - family-names: "Salmon"
+      given-names: "Jean-Baptiste"
+      affiliation: "CNRS, Syensqo, LOF"
+    - family-names: "Woodson"
+      given-names: "Jesse"
+      affiliation: "University of Arizona"
+    - family-names: "Frank"
+      given-names: "Margaret"
+      affiliation: "Cornell University"
+    - family-names: "Stroock"
+      given-names: "Abraham D."
+      affiliation: "Cornell University"
+  title: "A unified framework for hydromechanical signaling: Do plant signals go with the flow?"
+  year: 2024
