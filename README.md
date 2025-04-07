@@ -2,7 +2,7 @@
 
 This repository contains the datasets and analysis scripts used in the paper:
 
-> "A unified framework for hydromechanical signaling can explain transmission of local and long-distance signals in plants"
+# "A unified framework for hydromechanical signaling can explain transmission of local and long-distance signals in plants"
 
 ## Authors
 
